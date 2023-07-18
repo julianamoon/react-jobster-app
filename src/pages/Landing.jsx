@@ -17,9 +17,10 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam
-            facere eius deleniti illo cum quaerat tenetur minus aliquid ducimus
-            nisi.
+            Take control of your job hunt with our powerful website application!
+            Jobster is the place designed to simplify the process of managing and tracking
+            your job applications, while still providing valuable insights to help you
+            secure that dream job of yours.
           </p>
           <Link to="/register" className="btn btn-hero">
             login/register
