@@ -1,7 +1,7 @@
 # Jobster App
 
 Dummy job tracking application.<br/>
-[Live Preview](https://reactapp-jobster.netlify.app/landing)
+[Live Preview](https://reactapp-jobster.netlify.app/)
 <br/><br/>
 ![screenshot](./src/assets/jobster-app.png)
 
